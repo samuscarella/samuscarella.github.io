@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Stephen Muscarella's Blog]]></title>
+  <link href="http://samuscarella.github.io/atom.xml" rel="self"/>
+  <link href="http://samuscarella.github.io/"/>
+  <updated>2016-04-07T15:17:54-07:00</updated>
+  <id>http://samuscarella.github.io/</id>
+  <author>
+    <name><![CDATA[Steve M]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
